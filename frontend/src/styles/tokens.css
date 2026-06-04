@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #5B21B6;
+  --color-text: #353638;
+  --color-surface: #FFFFFF;
+  --color-muted-surface: #F3F3F3;
+  --color-border: #B9B9B9;
+  --radius-panel: 56px;
+  --radius-segmented: 48px;
+  --radius-control: 8px;
+  --font-body: 'Inter', sans-serif;
+  --font-heading: 'Satoshi', 'Inter', sans-serif;
+}
